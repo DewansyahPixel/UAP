@@ -1,4 +1,4 @@
-public class PabrikCetakanDonut {
+public class KalkulatorPabrik {
     public static void main(String[] args) {
         // Menampilkan header program
         System.out.println("=============================================");
